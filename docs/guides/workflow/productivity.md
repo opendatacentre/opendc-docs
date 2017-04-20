@@ -2,4 +2,4 @@
 
 <hr>
 
-Guides describing how to use the k8sdc productivity services.
+Guides describing how to use the opendc productivity services.

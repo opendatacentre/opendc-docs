@@ -1,12 +1,12 @@
 # Product
 ___
 
-A *Product*, within the context of **k8sdc**, is a software application that is used to realise a [*Solution*](solution.md).  The **k8sdc** platform uses a number of *Products*.
+A *Product*, within the context of **opendc**, is a software application that is used to realise a [*Solution*](solution.md).  The **opendc** platform uses a number of *Products*.
 ___
 
 ## Products
 
-The *Products* that are currently used by **k8sdc** are listed in the following table.
+The *Products* that are currently used by **opendc** are listed in the following table.
 
 | Product Name | Solutions | Description |
 |:-------------|:----------|:------------|
@@ -67,7 +67,7 @@ ___
 
 ### Next Products
 
-The following *Products* will be added to **k8sdc** in the near future.
+The following *Products* will be added to **opendc** in the near future.
 
 * Gitlab.
 * Nextcloud.
@@ -76,7 +76,7 @@ The following *Products* will be added to **k8sdc** in the near future.
 
 ### Possible Products
 
-The following *Products* will possibly be added to **k8sdc** in the future.
+The following *Products* will possibly be added to **opendc** in the future.
 
 * Taiga.
 * PostgreSQL.

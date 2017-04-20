@@ -7,7 +7,7 @@ ___
 
 ## Solutions
 
-The *Solutions* that are currently implemented by **k8sdc** are listed in the following table.
+The *Solutions* that are currently implemented by **opendc** are listed in the following table.
 
 
 | Solution Name                                                          | Capabilities                                 | Products                                                                                                                                          |

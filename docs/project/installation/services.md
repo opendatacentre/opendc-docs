@@ -2,7 +2,7 @@
 
 <hr>
 
-There are a number of services that k8sdc provides by default.  To confirm a successful installation you can try accessing some of them.
+There are a number of services that opendc provides by default.  To confirm a successful installation you can try accessing some of them.
 
 **Note**
 
@@ -12,16 +12,16 @@ The following urls are the default ones.  They also require that your local `/et
 
 Using Kibana, Elasticsearch and Fluentd.
 
-[logging.cluster.k8sdc.io](http://logging.cluster.k8sdc.io)
+[logging.cluster.opendc.io](http://logging.cluster.opendc.io)
 
 ## Job Management 
 
 Using Jenkins.
 
-[jenkins.development.k8sdc.io](http://jenkins.development.k8sdc.io/)
+[jenkins.development.opendc.io](http://jenkins.development.opendc.io/)
 
 ## Artifact Management
 
 Using Artifactory.
 
-[artifactory.development.k8sdc.io](http://artifactory.development.k8sdc.io/)
+[artifactory.development.opendc.io](http://artifactory.development.opendc.io/)

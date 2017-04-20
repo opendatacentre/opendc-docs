@@ -10,7 +10,6 @@ tags: **product**
 ## Pre-Reqs
 
 * Vagrant 1.8.4
-  * vagrant-hostmanager plugin
 * VirtualBox 5.0.26
 * Ansible 2.1.2.0-0.1.rc1+
 

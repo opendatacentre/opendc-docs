@@ -5,14 +5,14 @@
 Use the following instructions to validate that the install has succeeded.  The hostnames used are the default Vagrant ones, replace as appropriate.
 
 ```console
-$ vagrant ssh master.k8sdc.io
+$ vagrant ssh master.opendc.io
 
 $ sudo su -
 
 $ kubectl get node
 NAME           LABELS                                STATUS
-node1.k8sdc.io   kubernetes.io/hostname=node1.k8sdc.io   Ready
-node2.k8sdc.io   kubernetes.io/hostname=node2.k8sdc.io   Ready
+node1.opendc.io   kubernetes.io/hostname=node1.opendc.io   Ready
+node2.opendc.io   kubernetes.io/hostname=node2.opendc.io   Ready
 
 $ kubectl run nginx --image=nginx --replicas=5
 replicationcontroller "nginx" created
@@ -44,7 +44,7 @@ nginx     10.254.4.181   <none>        80/TCP    run=nginx   1m
 Make a note of the assigned cluster IP address and log into node1.  This is required as only nodes running the kube-proxy service can access service IPs.
 
 ```console
-$ vagrant ssh node1.k8sdc.io
+$ vagrant ssh node1.opendc.io
 
 $ curl 10.254.4.181
 <!DOCTYPE html>

@@ -30,7 +30,7 @@ package: build
 
 run:
 	@echo Running Docker container
-	@if [[ `docker ps | grep opendc-docs` != "" ]]; then docker rm -f opendc-docs; fi
+	@if [[ `docker ps -a | grep opendc-docs` != "" ]]; then docker rm -f opendc-docs; fi
 	@docker run -d --name opendc-docs -p 80:80 opendatacentre/opendc-docs
 
 rm:

@@ -2,4 +2,4 @@
 
 <hr>
 
-Guides describing how to use the k8sdc development services.
+Guides describing how to use the opendc development services.

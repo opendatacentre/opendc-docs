@@ -62,7 +62,7 @@ roles/kubernetes/
 ```
 /etc/kubernetes/
   ├── certs/
-  │   ├── k8sdc-ca.crt
+  │   ├── opendc-ca.crt
   │   ├── kube_apiserver.crt
   │   ├── kube_apiserver.key
   │   ├── kube_controller_manager.crt
@@ -78,9 +78,9 @@ roles/kubernetes/
   │   └── kube-scheduler.kubeconfig
   ├── tokens/
   │   ├── known_tokens.csv
-  │   ├── system:controller_manager-master.k8sdc.io.token
-  │   ├── system:kubectl-master.k8sdc.io.token
-  │   └── system:scheduler-master.k8sdc.io.token
+  │   ├── system:controller_manager-master.opendc.io.token
+  │   ├── system:kubectl-master.opendc.io.token
+  │   └── system:scheduler-master.opendc.io.token
   └── users/
       └── known_users.csv
 
@@ -104,7 +104,7 @@ roles/kubernetes/
 ```
 /etc/kubernetes/
   ├── certs/
-  │   └── k8sdc-ca.crt
+  │   └── opendc-ca.crt
   ├── config/
   │   ├── config
   │   ├── kubelet
@@ -113,8 +113,8 @@ roles/kubernetes/
   │   ├── kubelet.kubeconfig
   │   └── kube-proxy.kubeconfig
   └── tokens/
-      ├── system:kubelet-node1.k8sdc.io.token
-      └── system:kube-proxy-node1.k8sdc.io.token
+      ├── system:kubelet-node1.opendc.io.token
+      └── system:kube-proxy-node1.opendc.io.token
 
 /usr/bin/
   ├── kubelet

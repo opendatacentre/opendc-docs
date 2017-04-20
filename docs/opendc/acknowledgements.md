@@ -1,16 +1,16 @@
 # Acknowledgements
 ___
 
-Without the generousity of the Open Source community **k8sdc** would not be possible.  I would like to formally acknowledge, and thank, the following contributors, organisations and projects.
+Without the generousity of the Open Source community **opendc** would not be possible.  I would like to formally acknowledge, and thank, the following contributors, organisations and projects.
 ___
 
 
 ## Contributors
 
-The following individuals have contributed to the **k8sdc** source code.
+The following individuals have contributed to the **opendc** source code.
 
-* [Brady Wood](https://github.com/bradywood) has the distinction of being the first person to contribute to **k8sdc**.  Thanks Brady! :)
-* [Jun Wang](https://github.com/w0203j) has been a great help testing out various versions of **k8sdc**.
+* [Brady Wood](https://github.com/bradywood) has the distinction of being the first person to contribute to **opendc**.  Thanks Brady! :)
+* [Jun Wang](https://github.com/w0203j) has been a great help testing out various versions of **opendc**.
 * [Hamid Nazari](https://github.com/hamidnazari) has also helped with testing.
 ___
 

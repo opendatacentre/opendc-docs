@@ -3,17 +3,17 @@ ___
 
 **Infrastructure**
 
-In the context of **k8sdc** this means ...
+In the context of **opendc** this means ...
 
 
 **Development**
 
-In the context of **k8sdc** this means ...
+In the context of **opendc** this means ...
 
 
 **Productivity**
 
-In the context of **k8sdc** this means ...
+In the context of **opendc** this means ...
 
 
 **Capability** {{capability}}
@@ -29,7 +29,7 @@ In the context of **k8sdc** this means ...
 
 **Provider** {{provider}}
 
-A Provider describes the machine level platform that the **k8sdc** components can be deployed to.  For example, **k8sdc** can be deployed to Vagrant machines, Digital Ocean Droplets, bare metal nodes, etc.
+A Provider describes the machine level platform that the **opendc** components can be deployed to.  For example, **opendc** can be deployed to Vagrant machines, Digital Ocean Droplets, bare metal nodes, etc.
 
 **Workload**  {{workload}}
 

@@ -1,13 +1,13 @@
 # Capability
 ___
 
-Within the context of **k8sdc**, a *Capability* is the definition of a set of desired attributes that apply to a particular domain within an IT system, i.e. cluster management, monitoring, logging, etc.  A *Capability* is implemented by a [*Solution*](solution.md) and there can be more than one equivalent *Solution* to a *Capability*, leaving the choice of which *Solution* to use up to the end user.
+Within the context of **opendc**, a *Capability* is the definition of a set of desired attributes that apply to a particular domain within an IT system, i.e. cluster management, monitoring, logging, etc.  A *Capability* is implemented by a [*Solution*](solution.md) and there can be more than one equivalent *Solution* to a *Capability*, leaving the choice of which *Solution* to use up to the end user.
 ___
 
 
 ## Current Capabilities
 
-The *Capabilities* that are currently implemented within **k8sdc** are listed in the following table.
+The *Capabilities* that are currently implemented within **opendc** are listed in the following table.
 
 | Capability Name                              | Solutions                                                              |
 | :------------------------------------------- | :--------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ ___
 
 ### Next Capabilities
 
-The following *Capabilities* will be added to **k8sdc** in the near future. 
+The following *Capabilities* will be added to **opendc** in the near future. 
 
 * Git hosting.
 * Dropbox like file synchronisation.
@@ -68,7 +68,7 @@ The following *Capabilities* will be added to **k8sdc** in the near future.
 
 ### Future Capabilities
 
-The following *Capabilities* will be added to **k8sdc** in the future.
+The following *Capabilities* will be added to **opendc** in the future.
 
 * PaaS.
 * Code review.

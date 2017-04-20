@@ -4,7 +4,7 @@
 
 ## Pre-Reqs
 
-k8sdc has been tested using the following products.
+opendc has been tested using the following products.
 
 * Ansible 1.9.2
 
@@ -16,7 +16,7 @@ k8sdc has been tested using the following products.
 
 **Note**
 
-* The Macs that have tested the install have had 16GB RAM.  However, k8sdc should run in 8GB if not running any large programs.
+* The Macs that have tested the install have had 16GB RAM.  However, opendc should run in 8GB if not running any large programs.
 
 
 ## Instructions
@@ -40,7 +40,7 @@ If for any reason the Vagrant provisioning fails due to a timeout then rerun the
 $ vagrant provision
 ```
 
-Once the Vagrant command completes, k8sdc will begin pulling down the Docker images required to build the services.  This will take some time (at least 20 minutes).  Once this is done you can test the installation uisng either of the following guides.
+Once the Vagrant command completes, opendc will begin pulling down the Docker images required to build the services.  This will take some time (at least 20 minutes).  Once this is done you can test the installation uisng either of the following guides.
 
 * [Verifying Installation](verify_install.md)
 
@@ -49,4 +49,4 @@ Once the Vagrant command completes, k8sdc will begin pulling down the Docker ima
 
 ## Important Note
 
-Please see the [Vagrant Restart Fix](../../reference/utilities.md#vagrant_restart_fix) for details about restarting k8sdc when using Vagrant.
+Please see the [Vagrant Restart Fix](../../reference/utilities.md#vagrant_restart_fix) for details about restarting opendc when using Vagrant.

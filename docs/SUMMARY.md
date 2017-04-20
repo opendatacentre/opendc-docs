@@ -3,11 +3,11 @@
 ### Overview
 
 * [Introduction](README.md)
-* [Topology](k8sdc/topology.md)
-* [Install](k8sdc/install.md)
-* [Roadmap](k8sdc/roadmap.md)
-* [Acknowledgements](k8sdc/acknowledgements.md)
-* [Changelog](k8sdc/changelog.md)
+* [Topology](opendc/topology.md)
+* [Install](opendc/install.md)
+* [Roadmap](opendc/roadmap.md)
+* [Acknowledgements](opendc/acknowledgements.md)
+* [Changelog](opendc/changelog.md)
 
 
 ### Guides
@@ -23,24 +23,24 @@
   * [Microservice](guides/examples/microservice.md)
   * [Microservice Set](guides/examples/microservice-set.md)
   * [Complex App](guides/examples/complex-app.md)
-* [Contributing](k8sdc/contributing.md)
+* [Contributing](opendc/contributing.md)
 
 
 ### Detail
 
-* [k8sdc Command](commands/k8sdc.md)
-  * [init](commands/k8sdc_init.md)
-  * [up](commands/k8sdc_up.md)
-  * [machine](commands/k8sdc_machine.md)
-  * [provision](commands/k8sdc_provision.md)
-  * [app](commands/k8sdc_app.md)
-  * [client](commands/k8sdc_client.md)
-  * [config](commands/k8sdc_config.md)
-  * [hosts](commands/k8sdc_hosts.md)
-  * [security](commands/k8sdc_security.md)
-  * [upgrade](commands/k8sdc_upgrade.md)
-  * [status](commands/k8sdc_status.md)
-  * [destroy](commands/k8sdc_destroy.md)
+* [opendc Command](commands/opendc.md)
+  * [init](commands/opendc_init.md)
+  * [up](commands/opendc_up.md)
+  * [machine](commands/opendc_machine.md)
+  * [provision](commands/opendc_provision.md)
+  * [app](commands/opendc_app.md)
+  * [client](commands/opendc_client.md)
+  * [config](commands/opendc_config.md)
+  * [hosts](commands/opendc_hosts.md)
+  * [security](commands/opendc_security.md)
+  * [upgrade](commands/opendc_upgrade.md)
+  * [status](commands/opendc_status.md)
+  * [destroy](commands/opendc_destroy.md)
 * [Ansible](ansible/README.md)
   * [Roles](ansible/roles.md)
     * [Kubernetes](ansible/kubernetes.md#kubernetes)
